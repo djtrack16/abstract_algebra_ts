@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@sweet-js/cli": "^3.0.13",
+    "@types/node": "^22.10.2",
+    "fp-ts": "^2.16.9",
+    "typescript": "^5.7.2"
+  }
+}
